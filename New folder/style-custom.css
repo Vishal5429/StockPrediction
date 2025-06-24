@@ -1,0 +1,23 @@
+/* Add this to your existing CSS file or in a new style-custom.css file */
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #333; /* Adjust background color as needed */
+    color: white; /* Adjust text color as needed */
+  }
+  
+  .website-section {
+    background-color: #f0f0f0;
+    padding: 50px; /* Adjust the padding to your preference for spacing */
+    text-align: center;
+  }
+  
+  .website-section h1 {
+    color: #333;
+  }
+  
+  .website-section p {
+    color: #666;
+  }
+  

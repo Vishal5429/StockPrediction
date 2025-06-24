@@ -1,0 +1,78 @@
+ /* Add this to your existing or a new style block in the head of your HTML document */
+
+ body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+.box {
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    width: 150px;
+    margin: 5px;
+  }
+  
+  
+  nav {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 15px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  #features, #read-more {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #read-more a {
+    color: #333;
+    text-decoration: underline;
+  }
+  
+  #faq {
+    background-color: #e0e0e0;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  #faq h2 {
+    color: #333;
+  }
+  
+  #faq ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #faq li {
+    margin-bottom: 10px;
+  }
+  
+  #faq strong {
+    font-weight: bold;
+    color: #333;
+  }
+
+  
+
+
+
